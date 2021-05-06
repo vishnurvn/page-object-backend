@@ -7,7 +7,7 @@ Click==7.0
 colorama==0.4.1
 dnspython==1.16.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-PyMongo==2.2.0
 Flask-RESTful==0.3.7
 idna==2.8
